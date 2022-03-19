@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/framermotioncard/static/css/main.ce373190.chunk.css",
-    "main.js": "/framermotioncard/static/js/main.9369e43e.chunk.js",
-    "main.js.map": "/framermotioncard/static/js/main.9369e43e.chunk.js.map",
+    "main.css": "/framermotioncard/static/css/main.79ce32bf.chunk.css",
+    "main.js": "/framermotioncard/static/js/main.be339e1b.chunk.js",
+    "main.js.map": "/framermotioncard/static/js/main.be339e1b.chunk.js.map",
     "runtime-main.js": "/framermotioncard/static/js/runtime-main.ad26064d.js",
     "runtime-main.js.map": "/framermotioncard/static/js/runtime-main.ad26064d.js.map",
     "static/js/2.30976197.chunk.js": "/framermotioncard/static/js/2.30976197.chunk.js",
     "static/js/2.30976197.chunk.js.map": "/framermotioncard/static/js/2.30976197.chunk.js.map",
     "index.html": "/framermotioncard/index.html",
-    "static/css/main.ce373190.chunk.css.map": "/framermotioncard/static/css/main.ce373190.chunk.css.map",
+    "static/css/main.79ce32bf.chunk.css.map": "/framermotioncard/static/css/main.79ce32bf.chunk.css.map",
     "static/js/2.30976197.chunk.js.LICENSE.txt": "/framermotioncard/static/js/2.30976197.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ad26064d.js",
     "static/js/2.30976197.chunk.js",
-    "static/css/main.ce373190.chunk.css",
-    "static/js/main.9369e43e.chunk.js"
+    "static/css/main.79ce32bf.chunk.css",
+    "static/js/main.be339e1b.chunk.js"
   ]
 }
