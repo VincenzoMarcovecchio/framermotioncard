@@ -32,7 +32,7 @@ export default function App() {
         <ul>
           {[1, 2, 3, 4, 5].map((item) => (
             <li
-              role="button"
+             
               className={item === selectedTab ? "selected" : ""}
               onClick={() => setSelectedTab(item)}
             >
